@@ -1,0 +1,31 @@
+product_id,name,category,subcategory,color,fabric,size,price,stock,description
+101,Handloom Cotton Saree,Textile,Saree,Red,Cotton,Free,1200,15,Traditional red handloom saree made of soft cotton ideal for festive occasions.
+102,Banarasi Silk Saree,Textile,Saree,Golden,Silk,Free,3500,5,"Golden banarasi silk saree with intricate zari work, perfect for weddings."
+103,Chiffon Printed Saree,Textile,Saree,Blue,Chiffon,Free,1800,10,Lightweight blue chiffon saree with digital floral print.
+104,Organza Party Saree,Textile,Saree,Purple,Organza,Free,2100,8,Purple organza saree with a shimmer finish suitable for evening parties.
+105,Cotton Daily Wear Saree,Textile,Saree,Grey,Cotton,Free,1000,20,Grey cotton saree ideal for daily wear and office use.
+106,Embroidered Blouse Fabric,Textile,Blouse Fabric,Black,Cotton,Unstitched,350,50,Black cotton blouse piece with mirror and thread embroidery.
+107,Digital Print Blouse Fabric,Textile,Blouse Fabric,Multicolor,Silk,Unstitched,400,30,Silk blouse fabric with abstract digital print.
+108,Plain Satin Blouse Piece,Textile,Blouse Fabric,White,Satin,Unstitched,250,40,Plain white satin blouse fabric suitable for all occasions.
+109,Floral Brocade Blouse Fabric,Textile,Blouse Fabric,Gold,Brocade,Unstitched,600,25,Golden brocade blouse fabric with traditional floral motifs.
+110,Linen Embroidered Kurti,Apparel,Kurti,Pink,Linen,M,750,12,Pink linen kurti with front floral embroidery and 3/4th sleeves.
+111,Cotton A-line Kurti,Apparel,Kurti,Yellow,Cotton,L,700,10,Yellow A-line kurti with printed border and mandarin collar.
+112,Silk Straight Kurti,Apparel,Kurti,Navy Blue,Silk,XL,950,6,Straight silk kurti in navy blue with side slits and sequin work.
+113,Printed Palazzo Pants,Apparel,Bottomwear,White,Cotton,M,500,18,Cotton palazzo pants with all-over floral print.
+114,Solid Palazzo Pants,Apparel,Bottomwear,Black,Rayon,L,450,20,Solid black rayon palazzos with elastic waist.
+115,Embroidered Dupatta,Accessories,Dupatta,Maroon,Chiffon,Free,650,9,Maroon chiffon dupatta with detailed embroidery and tassels.
+116,Net Bridal Dupatta,Accessories,Dupatta,Peach,Net,Free,850,4,Peach net dupatta with heavy golden border and sequins.
+117,Cotton Printed Dupatta,Accessories,Dupatta,Green,Cotton,Free,400,15,Green cotton dupatta with block printed patterns.
+118,Floral Cotton Night Suit,Apparel,Nightwear,Blue,Cotton,M,850,8,Two-piece nightwear set in soft cotton with blue floral print.
+119,Rayon Night Suit Set,Apparel,Nightwear,Grey,Rayon,L,900,10,Grey rayon nightwear set with full-sleeve top and pants.
+120,Anarkali Suit Set,Apparel,Suit Set,Magenta,Georgette,L,1800,5,Magenta georgette Anarkali with dupatta and churidar.
+121,Chanderi Silk Suit Set,Apparel,Suit Set,Teal,Chanderi Silk,M,2200,6,Teal chanderi silk suit set with thread work and lining.
+122,Banarasi Dupatta,Accessories,Dupatta,Beige,Silk,Free,950,7,Beige banarasi silk dupatta with broad gold border.
+123,Velvet Readymade Blouse,Apparel,Blouse,Black,Velvet,38,650,15,Black velvet readymade blouse with gold piping.
+124,Brocade Readymade Blouse,Apparel,Blouse,Red,Brocade,36,700,12,Red brocade blouse with elbow sleeves and back tie.
+125,Cotton Printed Skirt,Apparel,Bottomwear,Turquoise,Cotton,Free,650,20,Turquoise cotton skirt with kalamkari block print.
+126,Rayon Umbrella Skirt,Apparel,Bottomwear,Maroon,Rayon,Free,600,18,Maroon umbrella-style rayon skirt with elastic waistband.
+127,Casual Printed Kurti,Apparel,Kurti,Beige,Cotton,XL,720,14,Beige printed kurti with side slits and minimal floral design.
+128,Chikankari Kurti,Apparel,Kurti,White,Cotton,M,950,5,White cotton kurti with intricate chikankari embroidery on neck and sleeves.
+129,Printed Saree with Blouse,Textile,Saree,Green,Crepe,Free,1500,11,Green printed crepe saree with a matching blouse piece.
+130,Ready to Wear Saree,Textile,Saree,Pink,Lycra,Free,1800,6,Pink ready-to-wear saree with pre-stitched pleats and belt.
